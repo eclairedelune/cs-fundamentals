@@ -17,5 +17,5 @@ Curriculum now moved to: [Ada-Developers-Academy/textbook-curriculum](https://gi
 1. Whiteboarding - Tips - 1 hour
 1. Whiteboarding - Mock Interview - 1.5 hours
 
-## Powerpoint Presentations
+## Presentations
 Link to powerpoint presentations: [here](https://drive.google.com/drive/u/0/folders/0B3xlasEt9caBfi1wcHhDWU8zdThOWnVtaFlEQm12c3NMUk5YRkoxdU1RS1FBSGlpZkVtWXM)
